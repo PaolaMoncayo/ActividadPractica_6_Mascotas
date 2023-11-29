@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nk098u5lU6RWViRZHOm7NQw4oiTk3W7DttUrc8EZ4z50U70J9UwlVT3NE0kK2ziCxXRxFbp7GHeLhq84J18LWQ==",
+  "dgSpecHash": "6lcTituTWTifu7k0rqOWGpFnfMIwn15pCSnwJcCqW+HOGoXYVQHUf2Kq6nKdMf/2TRi3tVGIBlucwFd9JMb3Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\AdopcionWeb\\AdopcionWeb\\AdopcionWeb.csproj",
+  "projectFilePath": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\ActividadPractica_6_Mascotas\\AdopcionWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\comby\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\comby\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
