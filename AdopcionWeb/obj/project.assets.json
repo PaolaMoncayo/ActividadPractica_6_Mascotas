@@ -11059,11 +11059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\AdopcionWeb\\AdopcionWeb\\AdopcionWeb.csproj",
+      "projectUniqueName": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\ActividadPractica_6_Mascotas\\AdopcionWeb\\AdopcionWeb.csproj",
       "projectName": "AdopcionWeb",
-      "projectPath": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\AdopcionWeb\\AdopcionWeb\\AdopcionWeb.csproj",
+      "projectPath": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\ActividadPractica_6_Mascotas\\AdopcionWeb\\AdopcionWeb.csproj",
       "packagesPath": "C:\\Users\\comby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\AdopcionWeb\\AdopcionWeb\\obj\\",
+      "outputPath": "C:\\Users\\comby\\OneDrive\\Escritorio\\WEB Avanzada\\Primer Parcial\\ActividadPractica_6_Mascotas\\AdopcionWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11135,7 +11135,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
